@@ -1,7 +1,6 @@
 ⚙️ Instalação
 
 # Clone o repositório
-$ git clone https://github.com/Ricmaloy/capputeeno.git
 
 # Entre no repositório
 $ cd capputeeno
