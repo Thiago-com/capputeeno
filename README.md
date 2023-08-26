@@ -1,6 +1,6 @@
 ⚙️ Instalação
 
-# Clone o repositório
+<h2> Clone o repositório </h2>
 
 # Entre no repositório
 $ cd capputeeno
